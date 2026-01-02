@@ -4,6 +4,6 @@ description = "Model Context Protocol Server for Notion"
 version = "0.1.0"
 schema_version = 1
 authors = ["f1729"]
-repository = "https://github.com/shiroe/zed-notion-mcp"
+repository = "https://github.com/f1729/zed-notion-mcp"
 
 [context_servers.mcp-server-notion]
