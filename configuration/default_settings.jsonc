@@ -1,0 +1,4 @@
+{
+  /// Your Notion integration token (starts with ntn_)
+  "notion_token": "YOUR_NOTION_TOKEN",
+}

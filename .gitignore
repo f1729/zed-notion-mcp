@@ -1,0 +1,8 @@
+# Build artifacts
+target/
+extension.wasm
+Cargo.lock
+
+# Node modules (installed at runtime by Zed)
+node_modules/
+package-lock.json
